@@ -17,6 +17,7 @@ Secondly, a dynamic mapping, which is connected with a timeslider. Therefore, a 
 
 The selection options for the map contains as vector maps (DARIAH historical maps) as raster maps (Typus Orbius Terrarum). For the released version a raster map with more detailed historical borders of the Iberian territories will be added instead of general maps. 
 
+IMPORTANT! At this moment a new WMS server for hosting custom raster maps is under construction. 
 
 ![photo_2022-08-28 20 18 20](https://user-images.githubusercontent.com/55465730/187088811-66297d94-c2f0-4ada-ac31-73bd4a2e6c65.jpeg)
 
