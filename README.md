@@ -38,11 +38,14 @@ The main part locates an interactive board, made with ggplot2 and its extensions
 A side part provides options for setting filters and types of the graphs. At the first option, made in ggplot2, possible graphs include bubbles, bars, comparative tables and pie. 
 
 <img width="1440" alt="Снимок экрана 2022-08-28 в 21 06 06" src="https://user-images.githubusercontent.com/55465730/187090666-a53e1a2d-b25b-46a3-9393-11954564aef0.png">
+
 Bubble graph example 
+
 <img width="1440" alt="Снимок экрана 2022-08-28 в 21 05 56" src="https://user-images.githubusercontent.com/55465730/187090667-b82328bc-e02c-4303-b35a-265c2c4940b4.png">
 Bar exmple 
 
-The second option, D3.js provides treemaps, which are built in accordance with the main specification, such as reasons, participants, country/participants and country/reasons. 
+
+The second option is made with D3.js and provides treemaps render, which are built in accordance with the main specification, such as reasons, participants, country/participants and country/reasons. 
 
 <img width="1440" alt="Снимок экрана 2022-08-28 в 21 06 25" src="https://user-images.githubusercontent.com/55465730/187090730-8624c071-e4f2-4cd8-93f2-c4fe720e85e4.png">
 
