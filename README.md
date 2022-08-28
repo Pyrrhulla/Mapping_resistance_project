@@ -4,6 +4,7 @@ A project for visualization of the historical dataset of Revolutions and Rebelli
 This project consists of two parts: 
 
 **Map**
+
 This part focuses on the spatial visualization of the revolutions and rebellions on the global historical level. 
 
 The application board has the main part with the global map, which has two rendering options. Firstly, a static historical maps, which can be chosen by a user. 
