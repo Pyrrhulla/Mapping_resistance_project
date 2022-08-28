@@ -1,6 +1,6 @@
 # Mapping Resistance
 
-A project for visualization of the historical dataset of Revolutions and Rebellions in Iberian world in 15th-19th centuries. This is a part of [RESISTANCE – Rebellion and Resistance in the Iberian Empires, 16th-19th centuries. EU Horizon 2020 Research and Innovation Programme, Marie Skłodowska-Curie Grant Agreement n. 778076] (http://www.resistance.uevora.pt)
+A project for visualization of the historical dataset of Revolutions and Rebellions in Iberian world in 15th-19th centuries. This is a part of [RESISTANCE – Rebellion and Resistance in the Iberian Empires, 16th-19th centuries. EU Horizon 2020 Research and Innovation Programme, Marie Skłodowska-Curie Grant Agreement n. 778076](http://www.resistance.uevora.pt)
 
 This project consists of two parts: 
 
