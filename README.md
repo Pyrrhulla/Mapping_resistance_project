@@ -26,8 +26,17 @@ IMPORTANT! At this moment a new WMS server for hosting custom raster maps is und
 
 ![photo_2022-08-28 20 18 15](https://user-images.githubusercontent.com/55465730/187088812-8c67176d-4c12-48f2-a51e-99f4752525b3.jpeg)
 
+Each event calls a popup on click, which can be extended as a window with the information about the event. 
 
-A test exaple:  https://alexandra-an.shinyapps.io/Presentation-map/
+<img width="1440" alt="Снимок экрана 2022-08-28 в 21 22 16" src="https://user-images.githubusercontent.com/55465730/187091027-d12b9dbc-6074-4b16-bc8f-caac5dc3e853.png">
+
+A popup example
+
+<img width="1440" alt="Снимок экрана 2022-08-28 в 21 22 25" src="https://user-images.githubusercontent.com/55465730/187091026-01e15b91-14f6-42bd-a872-f839be10ca87.png">
+
+A window example
+
+A light test version:  https://alexandra-an.shinyapps.io/Presentation-map/
 
 ##Graph##
 
@@ -39,15 +48,30 @@ A side part provides options for setting filters and types of the graphs. At the
 
 <img width="1440" alt="Снимок экрана 2022-08-28 в 21 06 06" src="https://user-images.githubusercontent.com/55465730/187090666-a53e1a2d-b25b-46a3-9393-11954564aef0.png">
 
-Bubble graph example 
+Bar graph example 
 
 <img width="1440" alt="Снимок экрана 2022-08-28 в 21 05 56" src="https://user-images.githubusercontent.com/55465730/187090667-b82328bc-e02c-4303-b35a-265c2c4940b4.png">
-Bar exmple 
+Bubble graph exmple 
 
 
-The second option is made with D3.js and provides treemaps render, which are built in accordance with the main specification, such as reasons, participants, country/participants and country/reasons. 
+The second option is made with D3.js and provides treemaps render with responsive graphs, which are built in accordance with the main specification, such as reasons, participants, country/participants and country/reasons. 
 
 <img width="1440" alt="Снимок экрана 2022-08-28 в 21 06 25" src="https://user-images.githubusercontent.com/55465730/187090730-8624c071-e4f2-4cd8-93f2-c4fe720e85e4.png">
 
 Test app: https://alexandra-an.shinyapps.io/Presentation-graph/
+
+All the results — the graph and data table can be downloaded as .png and .csv accordingly. 
+
+
+##Encyclopaedia##
+
+Encyclopaedia aims to provide the information about each particular event of the dataset. All events are sorted in chronological order.
+
+Each event has a page with several panels: map, summary, additional information, further reading, author.
+<img width="1440" alt="Снимок экрана 2022-08-28 в 21 20 28" src="https://user-images.githubusercontent.com/55465730/187091080-1fb47167-4cb6-49df-8938-ba09a79ef258.png">
+<img width="930" alt="Снимок экрана 2022-08-28 в 21 20 40" src="https://user-images.githubusercontent.com/55465730/187091094-dd271a83-3c0a-414d-9f68-4ad61e755a36.png">
+
+A map selection contains options of the contemporary map and historical map. 
+
+
 
