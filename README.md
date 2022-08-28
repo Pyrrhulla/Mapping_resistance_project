@@ -2,9 +2,9 @@
 
 A project for visualization of the historical dataset of Revolutions and Rebellions in Iberian world in 15th-19th centuries. This is a part of [RESISTANCE – Rebellion and Resistance in the Iberian Empires, 16th-19th centuries. EU Horizon 2020 Research and Innovation Programme, Marie Skłodowska-Curie Grant Agreement n. 778076](http://www.resistance.uevora.pt)
 
-A text project in shiny: https://alexandra-an.shinyapps.io/MappingResistance/ 
+A test version in shiny: https://alexandra-an.shinyapps.io/MappingResistance/ 
 
-This project consists of four parts: 
+This project consists of three parts: 
 
 **Map**
 
