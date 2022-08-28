@@ -4,7 +4,7 @@ A project for visualization of the historical dataset of Revolutions and Rebelli
 
 A text project in shiny: https://alexandra-an.shinyapps.io/MappingResistance/ 
 
-This project consists of two parts: 
+This project consists of four parts: 
 
 **Map**
 
@@ -38,7 +38,7 @@ A window example
 
 A light test version:  https://alexandra-an.shinyapps.io/Presentation-map/
 
-##Graph##
+**Graph**
 
 A graphic part aims to provide analytical instruments for the dataset of rebellions. The board has a similar structure as the map. 
 The main part locates an interactive board, made with ggplot2 and its extensions. Y, X, Z axis provide the graph orientation settings. Filters with checkboxes aim to specify the render via adding and excluding groups of input. A user can select an area on the board and the results will appear in the data table below.
@@ -63,7 +63,7 @@ Test app: https://alexandra-an.shinyapps.io/Presentation-graph/
 All the results — the graph and data table can be downloaded as .png and .csv accordingly. 
 
 
-##Encyclopaedia##
+**Encyclopaedia**
 
 Encyclopaedia aims to provide the information about each particular event of the dataset. All events are sorted in chronological order.
 
