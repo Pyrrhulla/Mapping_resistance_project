@@ -16,7 +16,7 @@ Firstly, a static historical maps, which can be chosen by a user.
 
 Secondly, a dynamic mapping, which is connected with a timeslider. Therefore, a map is changed in accordance with a chosen time period by the slider. The side part has three content filters -- participants, reasons, monarchy that specify a dataset for rendering on the map.
 
-<img width="1440" alt="Снимок экрана 2022-08-28 в 20 10 51" src="https://user-images.githubusercontent.com/55465730/187088640-fec4b2e7-b051-42c1-bf2a-16a479fe599c.png">
+<img width="1419" alt="Снимок экрана 2022-09-26 в 17 17 13" src="https://user-images.githubusercontent.com/55465730/192315631-d9ddf48a-d66a-4533-a71f-d8b3bbd095af.png">
 
 The selection options for the map contains as vector maps (DARIAH historical maps) as raster maps (Typus Orbius Terrarum). For the released version a raster map with more detailed historical borders of the Iberian territories will be added instead of general maps. 
 
@@ -28,11 +28,12 @@ IMPORTANT! At this moment a new WMS server for hosting custom raster maps is und
 
 Each event calls a popup on click, which can be extended as a window with the information about the event. 
 
-<img width="1440" alt="Снимок экрана 2022-08-28 в 21 22 16" src="https://user-images.githubusercontent.com/55465730/187091027-d12b9dbc-6074-4b16-bc8f-caac5dc3e853.png">
+[Uploading Снимок экрана 2022-09-26 в 17.21.29.png…]()
+
 
 A popup example
-<img width="1419" alt="Снимок экрана 2022-09-26 в 17 17 13" src="https://user-images.githubusercontent.com/55465730/192315631-d9ddf48a-d66a-4533-a71f-d8b3bbd095af.png">
 
+<img width="1440" alt="Снимок экрана 2022-09-26 в 17 21 50" src="https://user-images.githubusercontent.com/55465730/192316344-1ecd6af4-87c0-495f-bbdb-a2c4f1574aa8.png">
 
 A window example
 
