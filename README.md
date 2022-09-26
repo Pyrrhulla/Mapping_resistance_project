@@ -28,7 +28,7 @@ IMPORTANT! At this moment a new WMS server for hosting custom raster maps is und
 
 Each event calls a popup on click, which can be extended as a window with the information about the event. 
 
-[Uploading Снимок экрана 2022-09-26 в 17.21.29.png…]()
+<img width="1417" alt="Снимок экрана 2022-09-26 в 17 21 29" src="https://user-images.githubusercontent.com/55465730/192316573-684f7eba-cc2d-4ce9-b90c-ed41396675f7.png">
 
 
 A popup example
@@ -47,10 +47,7 @@ The main part locates an interactive board, made with ggplot2 and its extensions
 
 A side part provides options for setting filters and types of the graphs. At the first option, made in ggplot2, possible graphs include bubbles, bars, comparative tables and pie. 
 
-
-<img width="1431" alt="Снимок экрана 2022-09-26 в 17 17 51" src="https://user-images.githubusercontent.com/55465730/192315736-49e19e42-a9f4-4711-9745-241fb0896938.png">
-
-
+<img width="1440" alt="Снимок экрана 2022-09-26 в 17 24 08" src="https://user-images.githubusercontent.com/55465730/192316794-046a579c-04f0-4f43-a6d1-e25bca7a38b4.png">
 
 Bar graph example 
 
