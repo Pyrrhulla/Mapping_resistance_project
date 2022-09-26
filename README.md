@@ -31,8 +31,8 @@ Each event calls a popup on click, which can be extended as a window with the in
 <img width="1440" alt="Снимок экрана 2022-08-28 в 21 22 16" src="https://user-images.githubusercontent.com/55465730/187091027-d12b9dbc-6074-4b16-bc8f-caac5dc3e853.png">
 
 A popup example
+<img width="1419" alt="Снимок экрана 2022-09-26 в 17 17 13" src="https://user-images.githubusercontent.com/55465730/192315631-d9ddf48a-d66a-4533-a71f-d8b3bbd095af.png">
 
-<img width="1440" alt="Снимок экрана 2022-08-28 в 21 22 25" src="https://user-images.githubusercontent.com/55465730/187091026-01e15b91-14f6-42bd-a872-f839be10ca87.png">
 
 A window example
 
@@ -46,7 +46,10 @@ The main part locates an interactive board, made with ggplot2 and its extensions
 
 A side part provides options for setting filters and types of the graphs. At the first option, made in ggplot2, possible graphs include bubbles, bars, comparative tables and pie. 
 
-<img width="1440" alt="Снимок экрана 2022-08-28 в 21 06 06" src="https://user-images.githubusercontent.com/55465730/187090666-a53e1a2d-b25b-46a3-9393-11954564aef0.png">
+
+<img width="1431" alt="Снимок экрана 2022-09-26 в 17 17 51" src="https://user-images.githubusercontent.com/55465730/192315736-49e19e42-a9f4-4711-9745-241fb0896938.png">
+
+
 
 Bar graph example 
 
@@ -68,8 +71,9 @@ All the results — the graph and data table can be downloaded as .png and .csv 
 Encyclopaedia aims to provide the information about each particular event of the dataset. All events are sorted in chronological order.
 
 Each event has a page with several panels: map, summary, additional information, further reading, author.
-<img width="1440" alt="Снимок экрана 2022-08-28 в 21 20 28" src="https://user-images.githubusercontent.com/55465730/187091080-1fb47167-4cb6-49df-8938-ba09a79ef258.png">
-<img width="930" alt="Снимок экрана 2022-08-28 в 21 20 40" src="https://user-images.githubusercontent.com/55465730/187091094-dd271a83-3c0a-414d-9f68-4ad61e755a36.png">
+
+<img width="1439" alt="Снимок экрана 2022-09-26 в 17 18 10" src="https://user-images.githubusercontent.com/55465730/192315790-420a6991-9456-4694-a4e9-f559e0aaa314.png">
+<img width="1440" alt="Снимок экрана 2022-09-26 в 17 18 19" src="https://user-images.githubusercontent.com/55465730/192315813-1e8f8c67-6574-4563-bd9c-f95237ffc041.png">
 
 A map selection contains options of the contemporary map and historical map. 
 
